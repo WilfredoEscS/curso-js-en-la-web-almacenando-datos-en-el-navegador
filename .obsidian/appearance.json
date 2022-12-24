@@ -1,0 +1,13 @@
+{
+  "accentColor": "#6babef",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Century Gothic",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "Malgun Gothic,Lucida Sans,DejaVu Sans",
+  "theme": "system",
+  "cssTheme": "GitHub theme",
+  "showViewHeader": true,
+  "translucency": false,
+  "nativeMenus": false,
+  "baseFontSizeAction": false
+}

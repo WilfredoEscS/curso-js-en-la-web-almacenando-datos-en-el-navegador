@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": true,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": true,
+  "daily": {
+    "format": "DD-MMM-YYYY",
+    "folder": "Planificador/AgendaDiaria",
+    "template": "Plantillas/Planificadores/PlanDiario.md",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "folder": "Planificador/AgendaSemanal",
+    "template": "Plantillas/Planificadores/PlanSemanal.md",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
