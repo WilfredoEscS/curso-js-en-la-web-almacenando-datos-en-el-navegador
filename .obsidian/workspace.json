@@ -138,8 +138,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "switcher:Abrir quick switcher": false,
       "graph:Abrir vista de gráfico": false,
       "canvas:Create new canvas": false,
@@ -147,10 +145,12 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "99a1da88fd3d77e9",
+  "active": "5e3987511650da80",
   "lastOpenFiles": [
     "TrabajandoConFechas/CampoNuevaFecha.md"
   ]
