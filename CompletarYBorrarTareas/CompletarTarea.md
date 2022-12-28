@@ -1,5 +1,5 @@
 **📅 Viernes, 23 de diciembre de 2022 17:21**
-**🏷️ #JavaScript #Métodos #UUIDs #Biblioteca**
+**🏷️ #JavaScript #Métodos #UUID #Biblioteca**
 # Tareas completas en el Storage
 ## 💡Ideas clave
 - ### Identificadores únicos
@@ -29,4 +29,4 @@ Son muy útiles cuando se gestionan varios elementos y es necesario diferenciarl
 Enlace al repo de la biblioteca:[GitHub - uuidjs/uuid](https://github.com/uuidjs/uuid?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library) 
 ## 📝Resumen
 
-Para marcar o desmarcar la tarea como completa fue necesario que la acción del botón se  registrara local storage, para ello se generaron nuevos datos primero un identificador para diferenciarlos y el estado de la tarea(si esta completa o no), este poder alternarse del mismo botón de la tarea. Luego definir que a la hora de iniciar la aplicación esta leyera esos datos, relacionara el elemento html cons su respectiva información en el Local Storage y de esta forma le aplicara los estilos correspondientes al estado de la tarea para ellos se hizo uso de varios métodos de manipulación de arrays y una biblioteca para generar los identificadores 
+Para marcar o desmarcar la tarea como completa fue necesario guardar nuevos datos en el Local Storage primero un identificador para diferenciarlos y el estado de la tarea(si esta completa o no), el ultimo se alternaria del mismo botón de la tarea. Luego definir que al iniciar la aplicación esta leyera esos datos, relacionara el elemento html cons su respectiva información en el Local Storage y de esta forma le aplicara los estilos correspondientes a la tarea, para ellos se hizo uso de varios métodos de manipulación de arrays y una biblioteca para generar los identificadores 
